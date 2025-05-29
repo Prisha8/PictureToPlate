@@ -1,0 +1,62 @@
+[
+    {
+        "image_path": "/content/VLMdata/noodle.jpeg",
+        "dish_title": "noodly thing",
+        "generated_recipe": "Noodly thing.\n\n1. Cook the noodles according to package instructions.\n2. In a separate pan, saut\u00e9 the vegetables (such as peppers, onions, and carrots) until they are tender.\n3. Combine the cooked noodles and saut\u00e9ed vegetables in a bowl.\n4. Add your choice of protein (such as chicken, beef, or tofu) and sauce."
+    },
+    {
+        "image_path": "/content/VLMdata/pizza.jpg",
+        "dish_title": "saucy slice",
+        "generated_recipe": "Make the sauce by mixing tomato sauce, garlic, onion, and herbs. Preheat the oven to 400\u00b0F. Slice the pizza into 6 equal pieces. Assemble the pizza by spreading the sauce evenly on the pizza dough, adding cheese, and topping with the sliced pizza. Bake for 12-15 minutes or until the crust is golden brown and"
+    },
+    {
+        "image_path": "/content/VLMdata/pasta.jpg",
+        "dish_title": "twirly bites",
+        "generated_recipe": "Make the pasta by boiling the noodles according to the package instructions. Drain and set aside. In a separate pan, heat some oil and saut\u00e9 the vegetables until they are tender. Add the pasta to the pan and toss everything together. Serve immediately."
+    },
+    {
+        "image_path": "/content/VLMdata/tacos.jpg",
+        "dish_title": "crunchy foldies",
+        "generated_recipe": "Make the tortilla by mixing flour, water, and salt. Roll out the dough to a thickness of 1/4 inch. Cut the tortilla into triangles or squares. Heat the oil in a frying pan and add the tortilla strips. Cook for 2-3 minutes until crispy. Serve with your favorite toppings."
+    },
+    {
+        "image_path": "/content/VLMdata/omelette.jpg",
+        "dish_title": "eggy round thing",
+        "generated_recipe": "Make the egg by whisking the egg yolks, milk, salt and pepper. Pour the egg mixture into a non-stick frying pan and cook over medium heat until the edges start to set. Carefully flip the egg and cook for another 30 seconds. Serve the eggy round thing on a plate."
+    },
+    {
+        "image_path": "/content/VLMdata/cookies.jpg",
+        "dish_title": "sweet round disks",
+        "generated_recipe": "To make the dough, whisk egg, butter, sugar, baking powder, flour in a bowl. Cut out the sweet round disks from the dough using a cookie cutter. Bake them for 8-10 minutes. Cover them with sugar, icing, chocolate sauce and sprinkles."
+    },
+    {
+        "image_path": "/content/VLMdata/cheesecake.jpg",
+        "dish_title": "cheesy bake",
+        "generated_recipe": "Make the crust by mixing flour, butter, and salt. Press the dough into a pie pan and refrigerate for 30 minutes. Preheat the oven to 350\u00b0F. In a separate bowl, mix the cheese, eggs, and seasonings. Pour the cheese mixture over the crust and bake for 25 minutes or until the edges are golden brown. Serve."
+    },
+    {
+        "image_path": "/content/VLMdata/ice_creame.jpeg",
+        "dish_title": "cold creamy whirl",
+        "generated_recipe": "Make the whipped cream by mixing heavy cream and powdered sugar. Add vanilla extract and whisk until stiff peaks form. In a separate bowl, mix the chocolate chips and nuts. Serve the whipped cream in a bowl and top with the chocolate and nut mixture. Enjoy your cold creamy whirl."
+    },
+    {
+        "image_path": "/content/VLMdata/salad.jpg",
+        "dish_title": "green crunch",
+        "generated_recipe": "Make the salad by combining chopped cucumbers, lettuce, and onions. Add a dressing made of olive oil, vinegar, and seasonings. Serve."
+    },
+    {
+        "image_path": "/content/VLMdata/pancakes.jpg",
+        "dish_title": "flat fluffy stacks",
+        "generated_recipe": "Make the pancakes by mixing flour, sugar, baking powder, milk and butter. Cook the pancakes on a hot griddle until bubbly. Assemble the stacks by adding butter and syrup. Serve."
+    },
+    {
+        "image_path": "/content/VLMdata/Burrito.JPG",
+        "dish_title": "food cylinder",
+        "generated_recipe": "Make the filling by mixing chicken, rice, and spices. Roll out the tortilla and place the filling in the center. Wrap the tortilla around the filling and cut into slices. Serve with your favorite dipping sauce."
+    },
+    {
+        "image_path": "/content/VLMdata/mashed_potatoes.jpg",
+        "dish_title": "mash soft thing",
+        "generated_recipe": "Mash soft thing."
+    }
+]
