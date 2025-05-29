@@ -1,0 +1,40 @@
+Dish Title,Manually written recipe,Predicted Recipe,BLEU Score
+noodly thing,"Boil noodles in 4 cups of salted water and cook for 1-2 minutes.
+                  Heat oil, add ginger and onion and stir 30 seconds
+                  Fry the noodles and add sauce. Serve.","Noodly thing.
+
+1. Cook the noodles according to package instructions.
+2. In a separate pan, sauté the vegetables (such as peppers, onions, and carrots) until they are tender.
+3. Combine the cooked noodles and sautéed vegetables in a bowl.
+4. Add your choice of protein (such as chicken, beef, or tofu) and sauce.",0.021196638762659856
+saucy slice,"Take the dough and spread pizza sauce over it evenly.
+                Sprinkle parmesan cheese, mozerella cheese. Add toppings of choice.
+                Bake for 10 minutes until cheese is melted","Make the sauce by mixing tomato sauce, garlic, onion, and herbs. Preheat the oven to 400°F. Slice the pizza into 6 equal pieces. Assemble the pizza by spreading the sauce evenly on the pizza dough, adding cheese, and topping with the sliced pizza. Bake for 12-15 minutes or until the crust is golden brown and",0.017697475178221688
+twirly bites,"Boil the pasta in a large pot of water and some salt.
+                In a frying pan, sautte garlic in olive oil. Add stewed tomatoes and cook for 20 minutes.
+                Toss the pasta and the sauce together and add in spices of choice. Serve","Make the pasta by boiling the noodles according to the package instructions. Drain and set aside. In a separate pan, heat some oil and sauté the vegetables until they are tender. Add the pasta to the pan and toss everything together. Serve immediately.",0.031646642832063955
+crunchy foldies,"In a pan, sautte bell peppers, garlic and green chillies. Add cooked meat into the mixture.
+                  Warm the taco shells for 5-6 minutes in the oven.
+                  Add in the mixture, slasa, creame cheese and jalapenos in the taco. Serve. ","Make the tortilla by mixing flour, water, and salt. Roll out the dough to a thickness of 1/4 inch. Cut the tortilla into triangles or squares. Heat the oil in a frying pan and add the tortilla strips. Cook for 2-3 minutes until crispy. Serve with your favorite toppings.",0.011483232211790227
+eggy round thing,"Crack the eggs and beat them with salt and pepper in a bowl.
+                  Heat the non stick pan with oil and add the eggs.
+                  Use spatula to flip them until cooked. Serve.","Make the egg by whisking the egg yolks, milk, salt and pepper. Pour the egg mixture into a non-stick frying pan and cook over medium heat until the edges start to set. Carefully flip the egg and cook for another 30 seconds. Serve the eggy round thing on a plate.",0.020188879584463335
+sweet round disks,"Mix sugar, baking powder, butter, flour, eggs, vanilla and chocolate chips to make the dough.
+                    Scoop the dough into a baking tray and bake for about 10 minutes. Serve ","To make the dough, whisk egg, butter, sugar, baking powder, flour in a bowl. Cut out the sweet round disks from the dough using a cookie cutter. Bake them for 8-10 minutes. Cover them with sugar, icing, chocolate sauce and sprinkles.",0.05309159674661082
+cheesy bake,"Crush biscuits and mix with melted butter to make the crust.
+                  Mix cream cheese, sugar, flour, eggs and vanilla.
+                  Bake for 60-90 minutes. Let it cool and garnish with berries. Serve.","Make the crust by mixing flour, butter, and salt. Press the dough into a pie pan and refrigerate for 30 minutes. Preheat the oven to 350°F. In a separate bowl, mix the cheese, eggs, and seasonings. Pour the cheese mixture over the crust and bake for 25 minutes or until the edges are golden brown. Serve.",0.010043231205669743
+cold creamy whirl,"Cook the eggs, sugar and whole milk on low heat.
+                  Chill well and add the vanilla, cream and milk.
+                  Freeze it in airtight container.","Make the whipped cream by mixing heavy cream and powdered sugar. Add vanilla extract and whisk until stiff peaks form. In a separate bowl, mix the chocolate chips and nuts. Serve the whipped cream in a bowl and top with the chocolate and nut mixture. Enjoy your cold creamy whirl.",0.017643771154769002
+green crunch,"Chop lettuce, cucumber, tomatoes, avacoado and herbs.
+                  Add the dressing and mix well. Serve.","Make the salad by combining chopped cucumbers, lettuce, and onions. Add a dressing made of olive oil, vinegar, and seasonings. Serve.",0.020362099179073112
+flat fluffy stacks,"Mix sugar, baking powder, flour, vanilla and butter to make the batter.
+                  Pour the batter on a non stick pan and flip when bubbles appear.
+                  Add mayple syrup. Serve.","Make the pancakes by mixing flour, sugar, baking powder, milk and butter. Cook the pancakes on a hot griddle until bubbly. Assemble the stacks by adding butter and syrup. Serve.",0.07201094876223522
+food cylinder,"Make the mixture of meat and vegetables.
+                Spread the mixture and the salsa and cheese on the tortilla.
+                Warm it in the oven for 10-15 minutes. Serve.","Make the filling by mixing chicken, rice, and spices. Roll out the tortilla and place the filling in the center. Wrap the tortilla around the filling and cut into slices. Serve with your favorite dipping sauce.",0.030871945685782606
+mash soft thing,"Boil and mash potatoes> Mix in butter, milk, salt and cream.
+                  Use an electric mixer to get the desired consistency.
+                  Sprinkle with pepper. Serve.",Mash soft thing.,0
